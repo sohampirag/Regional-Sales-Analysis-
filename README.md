@@ -57,4 +57,10 @@ This project solves that problem by providing data-driven insights and an intera
 4. Data-driven support for strategic business decisions
 
 
+## 📷 Dashboard Preview
+
+Here is a snapshot of the interactive Power BI dashboard:
+
+![Sales Dashboard](https://github.com/sohampirag/Regional-Sales-Analysis-/blob/main/Regional_Sales%20Dashboard.png)
+
 
